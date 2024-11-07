@@ -21,7 +21,6 @@ public class CalenderController {
     }
 
 
-
     // 일정 생성
     @PostMapping
     public ResponseEntity<CalenderResponseDto> createCalender(@RequestBody CalenderRequestDto requestDto) {
