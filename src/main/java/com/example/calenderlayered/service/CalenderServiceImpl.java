@@ -5,7 +5,6 @@ import com.example.calenderlayered.dto.CalenderResponseDto;
 import com.example.calenderlayered.entity.Calender;
 import com.example.calenderlayered.repository.CalenderRepository;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 

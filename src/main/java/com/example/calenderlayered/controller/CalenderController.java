@@ -3,7 +3,6 @@ package com.example.calenderlayered.controller;
 
 import com.example.calenderlayered.dto.CalenderRequestDto;
 import com.example.calenderlayered.dto.CalenderResponseDto;
-import com.example.calenderlayered.entity.Calender;
 import com.example.calenderlayered.service.CalenderService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

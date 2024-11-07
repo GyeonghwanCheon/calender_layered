@@ -1,7 +1,6 @@
 package com.example.calenderlayered.entity;
 
 
-import com.example.calenderlayered.dto.CalenderRequestDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
